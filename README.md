@@ -39,7 +39,7 @@ Kenya's agricultural productivity and water resource planning are heavily depend
 ### Kenya Rainfall Lineplot (2018–2022)
 <img src="KENYA rainfall lineplot.png" alt="Kenya Rainfall Lineplot" width="100%" />
 
-**Interpretation:**
+**Key Observations:**
 - Nairobi, Kisumu, and Mombasa show distinct rainfall patterns across years.
 - Peak rainfall varies by region and year, with some months showing sharp increases or decreases.
 - Seasonal rainfall cycles are observable, with rainy months generally occurring around April-May and October-November.
@@ -49,7 +49,7 @@ Kenya's agricultural productivity and water resource planning are heavily depend
 ### Heatmap: Avg. Monthly Rainfall by Region (2018–2022)
 <img src="KENYA rainfall heatmap.png" alt="Kenya Rainfall Heatmap" width="100%" />
 
-**Interpretation:**
+**Key Observations:**
 - **Kisumu** has the highest rainfall in **July (313mm)** and **May (289mm)**.
 - **Mombasa** shows relatively consistent rainfall, with peaks in **February (263mm)** and **April (245mm)**.
 - **Nairobi** shows high rainfall in **February (286mm)** and **March (235mm)**, followed by a significant drop in **July (106mm)** and **December (86mm)**.
@@ -60,7 +60,7 @@ Kenya's agricultural productivity and water resource planning are heavily depend
 ### Boxplot: Yearly Rainfall Distribution by Region
 <img src="KENYA rainfall boxplot.png" alt="Kenya Rainfall Boxplot" width="100%" />
 
-**Interpretation:**
+**Key Observations:**
 - **Kisumu** consistently has a higher median rainfall across all years, indicating a wetter region overall.
 - **Nairobi** shows wider interquartile ranges and outliers, suggesting fluctuating monthly rainfall.
 - **Mombasa** has relatively stable distributions but a broader spread in 2022, pointing to variability in that year.
